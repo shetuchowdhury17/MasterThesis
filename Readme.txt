@@ -37,4 +37,4 @@ MasterThesis/
 ├── Dataset 1_outliers_pca/
 ├── Dataset 2/ ***applied same steps as Dataset 1***
 ├── Dataset 3/ ***applied same steps as Dataset 1***
-└── README.md
+└── README.txt
